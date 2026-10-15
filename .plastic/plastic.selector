@@ -1,0 +1,3 @@
+repository "0-Zone/0-Zone@18968480134363@cloud"
+  path "/"
+    smartbranch "/main"

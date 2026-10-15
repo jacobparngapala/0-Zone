@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a5985462b7f5ed489e82eaec5cd53cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - frontSprite: {fileID: -41109135790934016, guid: 4d54f578a81f333409d64282272a77d2, type: 3}
+  - backSprite: {fileID: -1517508525017490444, guid: 0545efc343178784ba8b0cac1f719a74, type: 3}
+  - leftSprite: {fileID: -4022332948549261872, guid: 5944115b11794cb4b98bcd3ef437dc48, type: 3}
+  - rightSprite: {fileID: 5961293685514566230, guid: f95ea0e140ccb5c4f862017db10d2804, type: 3}
+  - flashlight: {instanceID: 0}
+  - footstepSound: {instanceID: 0}
+  - footstepClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

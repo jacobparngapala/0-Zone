@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: fbb970caf6a0e024b9c1f0435dcf220a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7475644576037314879
+    second: PlayerFlashlight_spritesheet_0
+  - first:
+      213: 7952259782630490378
+    second: PlayerFlashlight_spritesheet_1
+  - first:
+      213: -6785609521398515962
+    second: PlayerFlashlight_spritesheet_2
+  - first:
+      213: -513219472509920402
+    second: PlayerFlashlight_spritesheet_3
+  - first:
+      213: 2445009261117437640
+    second: PlayerFlashlight_spritesheet_4
+  - first:
+      213: 7666977729732082842
+    second: PlayerFlashlight_spritesheet_5
+  - first:
+      213: -663452343029177332
+    second: PlayerFlashlight_spritesheet_6
+  - first:
+      213: -6674235595369777492
+    second: PlayerFlashlight_spritesheet_7
+  - first:
+      213: -2215976941486457860
+    second: PlayerFlashlight_spritesheet_8
+  - first:
+      213: 7361240705477965585
+    second: PlayerFlashlight_spritesheet_9
+  - first:
+      213: -4346611772029710625
+    second: PlayerFlashlight_spritesheet_10
+  - first:
+      213: -1745826754716091201
+    second: PlayerFlashlight_spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 135
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce5832addc214890800000000000000
+      internalID: -7475644576037314879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c051b32a1c5e60800000000000000
+      internalID: 7952259782630490378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 135
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607788c871ca4d1a0800000000000000
+      internalID: -6785609521398515962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 132
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b9b31eb9da0e8f0800000000000000
+      internalID: -513219472509920402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 69
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6f17108fa6ee120800000000000000
+      internalID: 2445009261117437640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf281bf93966a60800000000000000
+      internalID: 7666977729732082842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 70
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c046850fb91fac6f0800000000000000
+      internalID: -663452343029177332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 70
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca677be661a5063a0800000000000000
+      internalID: -6674235595369777492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3e3466b44f31e0800000000000000
+      internalID: -2215976941486457860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f82c8b61682660800000000000000
+      internalID: 7361240705477965585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde43a76f9bbda3c0800000000000000
+      internalID: -4346611772029710625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerFlashlight_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc36cdf0d395c7e0800000000000000
+      internalID: -1745826754716091201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerFlashlight_spritesheet_0: -7475644576037314879
+      PlayerFlashlight_spritesheet_1: 7952259782630490378
+      PlayerFlashlight_spritesheet_10: -4346611772029710625
+      PlayerFlashlight_spritesheet_11: -1745826754716091201
+      PlayerFlashlight_spritesheet_2: -6785609521398515962
+      PlayerFlashlight_spritesheet_3: -513219472509920402
+      PlayerFlashlight_spritesheet_4: 2445009261117437640
+      PlayerFlashlight_spritesheet_5: 7666977729732082842
+      PlayerFlashlight_spritesheet_6: -663452343029177332
+      PlayerFlashlight_spritesheet_7: -6674235595369777492
+      PlayerFlashlight_spritesheet_8: -2215976941486457860
+      PlayerFlashlight_spritesheet_9: 7361240705477965585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

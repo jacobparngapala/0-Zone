@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 65d60e6d2eb92c641ad59dad4b83ebd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3415833762122906950
+    second: bossfight_death_spritesheet_0
+  - first:
+      213: -7689317872211646403
+    second: bossfight_death_spritesheet_1
+  - first:
+      213: 1232440004070683315
+    second: bossfight_death_spritesheet_2
+  - first:
+      213: -5537215359223039709
+    second: bossfight_death_spritesheet_3
+  - first:
+      213: -2138182020608986121
+    second: bossfight_death_spritesheet_4
+  - first:
+      213: -3715905515322329686
+    second: bossfight_death_spritesheet_5
+  - first:
+      213: -3681040422360979722
+    second: bossfight_death_spritesheet_6
+  - first:
+      213: -3644909252008023810
+    second: bossfight_death_spritesheet_7
+  - first:
+      213: -1655288559418296075
+    second: bossfight_death_spritesheet_8
+  - first:
+      213: -6885400310317465027
+    second: bossfight_death_spritesheet_9
+  - first:
+      213: -6067067065017553921
+    second: bossfight_death_spritesheet_10
+  - first:
+      213: -8704143409588661845
+    second: bossfight_death_spritesheet_11
+  - first:
+      213: -9168657585297398649
+    second: bossfight_death_spritesheet_12
+  - first:
+      213: -7682448485378109555
+    second: bossfight_death_spritesheet_13
+  - first:
+      213: 2920518194102757517
+    second: bossfight_death_spritesheet_14
+  - first:
+      213: 3719225764816567624
+    second: bossfight_death_spritesheet_15
+  - first:
+      213: -3545672145641363492
+    second: bossfight_death_spritesheet_16
+  - first:
+      213: -5396631905207583500
+    second: bossfight_death_spritesheet_17
+  - first:
+      213: 4786727051733952324
+    second: bossfight_death_spritesheet_18
+  - first:
+      213: 7016235953843910869
+    second: bossfight_death_spritesheet_19
+  - first:
+      213: 7106147437293496183
+    second: bossfight_death_spritesheet_20
+  - first:
+      213: 3959709809100937224
+    second: bossfight_death_spritesheet_21
+  - first:
+      213: -3906452827772180746
+    second: bossfight_death_spritesheet_22
+  - first:
+      213: -230351294465237553
+    second: bossfight_death_spritesheet_23
+  - first:
+      213: -6427860346607265895
+    second: bossfight_death_spritesheet_24
+  - first:
+      213: -923129633743651183
+    second: bossfight_death_spritesheet_25
+  - first:
+      213: 8601094351219514352
+    second: bossfight_death_spritesheet_26
+  - first:
+      213: 7577469610283812657
+    second: bossfight_death_spritesheet_27
+  - first:
+      213: -4508896734659757046
+    second: bossfight_death_spritesheet_28
+  - first:
+      213: -2339033667481557557
+    second: bossfight_death_spritesheet_29
+  - first:
+      213: -3832233042374929023
+    second: bossfight_death_spritesheet_30
+  - first:
+      213: 3426749870158329233
+    second: bossfight_death_spritesheet_31
+  - first:
+      213: -8771464857307117801
+    second: bossfight_death_spritesheet_32
+  - first:
+      213: 3039593773861953549
+    second: bossfight_death_spritesheet_33
+  - first:
+      213: 46867945405061561
+    second: bossfight_death_spritesheet_34
+  - first:
+      213: -4911773690719829815
+    second: bossfight_death_spritesheet_35
+  - first:
+      213: -2649662334811785142
+    second: bossfight_death_spritesheet_36
+  - first:
+      213: 1854470246657496904
+    second: bossfight_death_spritesheet_37
+  - first:
+      213: -8103810665388691356
+    second: bossfight_death_spritesheet_38
+  - first:
+      213: -5832647361382250825
+    second: bossfight_death_spritesheet_39
+  - first:
+      213: 7766074754975343132
+    second: bossfight_death_spritesheet_40
+  - first:
+      213: -4921831404308325975
+    second: bossfight_death_spritesheet_41
+  - first:
+      213: 5543725304439688563
+    second: bossfight_death_spritesheet_42
+  - first:
+      213: -5796043361917388906
+    second: bossfight_death_spritesheet_43
+  - first:
+      213: 1435199514861800978
+    second: bossfight_death_spritesheet_44
+  - first:
+      213: 1226316424885796183
+    second: bossfight_death_spritesheet_45
+  - first:
+      213: -7452179124598223627
+    second: bossfight_death_spritesheet_46
+  - first:
+      213: 5286384934398523399
+    second: bossfight_death_spritesheet_47
+  - first:
+      213: 2803526297097391260
+    second: bossfight_death_spritesheet_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 683
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3f1375ba776f20800000000000000
+      internalID: 3415833762122906950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 696
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3823cd822e0a4590800000000000000
+      internalID: -7689317872211646403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 696
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b23d9967a18a1110800000000000000
+      internalID: 1232440004070683315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 75
+        width: 593
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297cacd7fbd723b0800000000000000
+      internalID: -5537215359223039709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 37
+        width: 603
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f37974e7c6a352e0800000000000000
+      internalID: -2138182020608986121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 643
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa53c4c1f937e6cc0800000000000000
+      internalID: -3715905515322329686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 653
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e1552d315aecc0800000000000000
+      internalID: -3681040422360979722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 611
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e68bc85eaa6dc0800000000000000
+      internalID: -3644909252008023810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 568
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8ba1743db3709e0800000000000000
+      internalID: -1655288559418296075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 568
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c92fe5e42270a0800000000000000
+      internalID: -6885400310317465027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 588
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb282926a27dcba0800000000000000
+      internalID: -6067067065017553921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 589
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1196d7faba43780800000000000000
+      internalID: -8704143409588661845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 568
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7846829f08262c080800000000000000
+      internalID: -9168657585297398649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 525
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fcccf4ec5726590800000000000000
+      internalID: -7682448485378109555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 546
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d886f8fe2d3c78820800000000000000
+      internalID: 2920518194102757517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 525
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3f57b0285d9330800000000000000
+      internalID: 3719225764816567624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 482
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ac0528fd3bcec0800000000000000
+      internalID: -3545672145641363492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 504
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcff82ffdf4b15b0800000000000000
+      internalID: -5396631905207583500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 482
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ea5374eedd6240800000000000000
+      internalID: 4786727051733952324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 439
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b0392d6dae5160800000000000000
+      internalID: 7016235953843910869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 461
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776e69b17b1e9260800000000000000
+      internalID: 7106147437293496183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 439
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80857198717b3f630800000000000000
+      internalID: 3959709809100937224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 461
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6a1d4b9dd79c9c0800000000000000
+      internalID: -3906452827772180746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 345
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd19d7d7b0adccf0800000000000000
+      internalID: -230351294465237553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99797ae2217abc6a0800000000000000
+      internalID: -6427860346607265895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 418
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb2133d726033f0800000000000000
+      internalID: -923129633743651183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 418
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbde0cedb93d5770800000000000000
+      internalID: 8601094351219514352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 375
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c841a674982960800000000000000
+      internalID: 7577469610283812657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 397
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cbfa91f4e2d61c0800000000000000
+      internalID: -4508896734659757046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 375
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5251ca5451a8fd0800000000000000
+      internalID: -2339033667481557557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 354
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1855abc1a5c21dac0800000000000000
+      internalID: -3832233042374929023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 375
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19537e8e9d24e8f20800000000000000
+      internalID: 3426749870158329233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 72
+        width: 720
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717036c7f2f754680800000000000000
+      internalID: -8771464857307117801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 247
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e780de6ece2a20800000000000000
+      internalID: 3039593773861953549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 311
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99835e52286a000800000000000000
+      internalID: 46867945405061561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 332
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0098b1adfd5dbb0800000000000000
+      internalID: -4911773690719829815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 332
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48bfce15228a3bd0800000000000000
+      internalID: -2649662334811785142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 268
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8471d8a2dd66cb910800000000000000
+      internalID: 1854470246657496904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 290
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4603c7ab22b798f80800000000000000
+      internalID: -8103810665388691356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 201
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b601b4a0264e0fa0800000000000000
+      internalID: -5832647361382250825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 222
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c122f6dd7d3a6cb60800000000000000
+      internalID: 7766074754975343132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 201
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a917dd2a6422bbb0800000000000000
+      internalID: -4921831404308325975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 222
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc87fdac44fec40800000000000000
+      internalID: 5543725304439688563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 116
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69737266541509fa0800000000000000
+      internalID: -5796043361917388906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 116
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e8621da5adae310800000000000000
+      internalID: 1435199514861800978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 74
+        width: 412
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7b878a40c40110800000000000000
+      internalID: 1226316424885796183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 115
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fccdbbc19a849890800000000000000
+      internalID: -7452179124598223627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 52
+        width: 119
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708fcc0e6130d5940800000000000000
+      internalID: 5286384934398523399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossfight_death_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 54
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cc4f0405028e620800000000000000
+      internalID: 2803526297097391260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bossfight_death_spritesheet_0: 3415833762122906950
+      bossfight_death_spritesheet_1: -7689317872211646403
+      bossfight_death_spritesheet_10: -6067067065017553921
+      bossfight_death_spritesheet_11: -8704143409588661845
+      bossfight_death_spritesheet_12: -9168657585297398649
+      bossfight_death_spritesheet_13: -7682448485378109555
+      bossfight_death_spritesheet_14: 2920518194102757517
+      bossfight_death_spritesheet_15: 3719225764816567624
+      bossfight_death_spritesheet_16: -3545672145641363492
+      bossfight_death_spritesheet_17: -5396631905207583500
+      bossfight_death_spritesheet_18: 4786727051733952324
+      bossfight_death_spritesheet_19: 7016235953843910869
+      bossfight_death_spritesheet_2: 1232440004070683315
+      bossfight_death_spritesheet_20: 7106147437293496183
+      bossfight_death_spritesheet_21: 3959709809100937224
+      bossfight_death_spritesheet_22: -3906452827772180746
+      bossfight_death_spritesheet_23: -230351294465237553
+      bossfight_death_spritesheet_24: -6427860346607265895
+      bossfight_death_spritesheet_25: -923129633743651183
+      bossfight_death_spritesheet_26: 8601094351219514352
+      bossfight_death_spritesheet_27: 7577469610283812657
+      bossfight_death_spritesheet_28: -4508896734659757046
+      bossfight_death_spritesheet_29: -2339033667481557557
+      bossfight_death_spritesheet_3: -5537215359223039709
+      bossfight_death_spritesheet_30: -3832233042374929023
+      bossfight_death_spritesheet_31: 3426749870158329233
+      bossfight_death_spritesheet_32: -8771464857307117801
+      bossfight_death_spritesheet_33: 3039593773861953549
+      bossfight_death_spritesheet_34: 46867945405061561
+      bossfight_death_spritesheet_35: -4911773690719829815
+      bossfight_death_spritesheet_36: -2649662334811785142
+      bossfight_death_spritesheet_37: 1854470246657496904
+      bossfight_death_spritesheet_38: -8103810665388691356
+      bossfight_death_spritesheet_39: -5832647361382250825
+      bossfight_death_spritesheet_4: -2138182020608986121
+      bossfight_death_spritesheet_40: 7766074754975343132
+      bossfight_death_spritesheet_41: -4921831404308325975
+      bossfight_death_spritesheet_42: 5543725304439688563
+      bossfight_death_spritesheet_43: -5796043361917388906
+      bossfight_death_spritesheet_44: 1435199514861800978
+      bossfight_death_spritesheet_45: 1226316424885796183
+      bossfight_death_spritesheet_46: -7452179124598223627
+      bossfight_death_spritesheet_47: 5286384934398523399
+      bossfight_death_spritesheet_48: 2803526297097391260
+      bossfight_death_spritesheet_5: -3715905515322329686
+      bossfight_death_spritesheet_6: -3681040422360979722
+      bossfight_death_spritesheet_7: -3644909252008023810
+      bossfight_death_spritesheet_8: -1655288559418296075
+      bossfight_death_spritesheet_9: -6885400310317465027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
